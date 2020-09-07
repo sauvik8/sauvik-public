@@ -1,0 +1,29 @@
+{
+		
+		
+		 "securityProperties": [
+        {
+            "displayName": "Username",
+            "hasAttachment": false,
+            "hiddenFlag": false,
+            "propertyDescription": "A username credential",
+            "propertyGroup": "CREDENTIALS",
+            "propertyName": "username",
+            "propertyType": "STRING",
+            "propertyValue": "user@oracle.com",
+            "requiredFlag": true
+        },
+        {
+            "displayName": "Password",
+            "hasAttachment": false,
+            "hiddenFlag": false,
+            "propertyDescription": "A password credential",
+            "propertyGroup": "CREDENTIALS",
+            "propertyName": "password",
+            "propertyType": "PASSWORD",
+            "propertyValue": "Welcome@1234",
+            "requiredFlag": true
+        }
+    ]
+		
+		}
